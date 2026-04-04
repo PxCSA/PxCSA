@@ -57,7 +57,7 @@
 
 ## 🌐 Connect With Me
 
-LinkedIn(https://img.shields.io/badge/LinkedIn-0C447C?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/pradyumn-upadhyay-11b99b229
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0C447C?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/pradyumn-upadhyay-11b99b229
 
 
 ---
